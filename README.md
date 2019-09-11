@@ -12,3 +12,10 @@
 * `git branch` - display all branches, show current
 * `git branch branchName` - create a new branch `branchName`
 * `git checkout branchName` - retrieve branch content into working directory
+
+
+### TESTING IN MASTER BRANCH
+jklfdajf;alkdjklfaj;[
+fdajklfjal;fdajklfjal
+fdafasdfasdfs
+]()
