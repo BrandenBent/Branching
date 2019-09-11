@@ -7,5 +7,6 @@
 * `git commit -m "message"` - commit staged files to local repo
 
 ## Basic Branching
+* `git branch` - display all branches, show current
 * `git branch branchName` - create a new branch `branchName`
 * `git checkout branchName` - retrieve branch content into working directory
