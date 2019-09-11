@@ -8,3 +8,4 @@
 
 ## Basic Branching
 * `git branch branchName` - create a new branch `branchName`
+* `git checkout branchName` - retrieve branch content into working directory
